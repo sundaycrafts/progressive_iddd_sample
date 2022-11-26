@@ -1,8 +1,8 @@
-package com.example.iddd_collaboration.collaboration.application;
+package com.example.iddd_collaboration.application;
 
 import com.example.iddd_collaboration.application.calendar.CalendarApplicationService;
-import com.example.iddd_collaboration.collaboration.domain.model.calendar.Calendar;
-import com.example.iddd_collaboration.collaboration.domain.model.calendar.CalendarRepository;
+import com.example.iddd_collaboration.domain.model.calendar.Calendar;
+import com.example.iddd_collaboration.domain.model.calendar.CalendarRepository;
 
 public abstract class ApplicationTest {
     protected CalendarApplicationService calendarApplicationService;

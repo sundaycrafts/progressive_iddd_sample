@@ -1,12 +1,11 @@
-package com.example.iddd_collaboration.collaboration.application.calendar;
+package com.example.iddd_collaboration.application.calendar;
 
-import com.example.iddd_collaboration.collaboration.application.ApplicationTest;
+import com.example.iddd_collaboration.application.ApplicationTest;
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.example.iddd_collaboration.collaboration.domain.model.calendar.Calendar;
 import org.junit.jupiter.api.Test;
 
-public class CalenderApplicationServiceTest extends ApplicationTest {
+public class CalendarApplicationServiceTest extends ApplicationTest {
     @Test
     void changeCalendarDescription() {
         // Given existing calendar

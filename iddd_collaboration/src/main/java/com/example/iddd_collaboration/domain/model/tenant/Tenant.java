@@ -1,4 +1,4 @@
-package com.example.iddd_collaboration.collaboration.domain.model.tenant;
+package com.example.iddd_collaboration.domain.model.tenant;
 
 public class Tenant {
     final String id;

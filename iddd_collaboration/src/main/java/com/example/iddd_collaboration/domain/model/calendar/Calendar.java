@@ -1,7 +1,6 @@
-package com.example.iddd_collaboration.collaboration.domain.model.calendar;
+package com.example.iddd_collaboration.domain.model.calendar;
 
-import com.example.iddd_collaboration.collaboration.domain.model.tenant.Tenant;
-import jdk.jshell.Snippet;
+import com.example.iddd_collaboration.domain.model.tenant.Tenant;
 
 public class Calendar {
     public final Tenant tenant;

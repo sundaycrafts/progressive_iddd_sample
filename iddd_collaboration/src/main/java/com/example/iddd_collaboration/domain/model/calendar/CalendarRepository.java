@@ -1,6 +1,6 @@
-package com.example.iddd_collaboration.collaboration.domain.model.calendar;
+package com.example.iddd_collaboration.domain.model.calendar;
 
-import com.example.iddd_collaboration.collaboration.domain.model.tenant.Tenant;
+import com.example.iddd_collaboration.domain.model.tenant.Tenant;
 
 import java.util.Optional;
 
