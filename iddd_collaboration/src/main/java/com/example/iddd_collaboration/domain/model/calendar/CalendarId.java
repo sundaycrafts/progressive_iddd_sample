@@ -1,6 +1,6 @@
 package com.example.iddd_collaboration.domain.model.calendar;
 
-import com.example.iddd_collaboration.domain.model.common.AbstractId;
+import com.example.iddd_collaboration.common.domain.model.AbstractId;
 
 public class CalendarId extends AbstractId {
     final private String id;
